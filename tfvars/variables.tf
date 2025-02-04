@@ -7,3 +7,9 @@ variable "project"{
 variable "environment"{
 
 }
+variable "domain_name"{
+    default ="daws82s.cloud"
+}
+variable "zone_id"{
+    default ="Z10470331A87DVPOT82Q9"
+}
